@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Embedded-lightgrey)
 ![Bluetooth](https://img.shields.io/badge/Connectivity-Bluetooth-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Made by Heleena Robert](https://img.shields.io/badge/Made%20by-Heleena%20Robert-8A2BE2?style=flat-square)](https://github.com/HeleenaRobert)
+[![Made by Nandkishore S](https://img.shields.io/badge/Made%20by-Nandkishore%20S-8A2BE2?style=flat-square)][(https://github.com/nandkishoresadan)]
 
 ## 📌 Overview  
 
@@ -116,4 +116,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👩‍💻 Author
 
-Developed by [Heleena Robert](https://github.com/HeleenaRobert)
+Developed by [Nandkishore S](https://github.com/nandkishoresadan)
