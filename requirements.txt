@@ -1,0 +1,3 @@
+# Requirements for VOCROID – Voice Controlled Robot
+Arduino IDE
+AFMotor Library (Adafruit Motor Shield Library)
